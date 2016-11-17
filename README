@@ -1,0 +1,75 @@
+Phillip Ryan
+CS 472
+FTP server improvements
+11-14-16
+
+Objective:
+This is an FTP server implemented to the following rfcs:
+
+https://www.rfc-editor.org/rfc/pdfrfc/rfc959.txt.pdf
+https://www.rfc-editor.org/rfc/pdfrfc/rfc2428.txt.pdf
+
+About the code:
+The code was compiled on Eclipse (neon) using the c++ SDK. To see example run commands please see below, 
+the corresponding execution log file output is attached in this assignment as myLog.
+
+This code was built on MAC version 10.12.1 with Elcipse Version: Neon.1a Release (4.6.1). And has not 
+been tested anywhere else, the compilation or running of this program is not supported anywhere 
+else but what is described here.
+
+The toolchain that was used comes with Eclipse, no external cross-compiler was loaded. The name of
+this toolchain in Eclipse is MACOSX GCC. This contains the compiler, linker, assembler.
+
+Here are the tools eclipse listed as used by MACOSX GCC toolchain:
+MacOS X C Linker
+MacOS X C++ Linker
+GCC Assembler
+GCC Archiver
+GCC C++ Compiler
+GCC C Compiler
+
+Eclipse:
+Eclipse IDE for C/C++ Developers
+
+Version: Neon.1a Release (4.6.1)
+Build id: 20161007-1200
+
+This project and the examples below were run from eclipse, described above. In order to load this project
+please follow these steps:
+1. Open Eclipse version and SDK described above.
+2. Go to File -> Import -> General -> Existing Projects into Workspace
+3. Unzip the file which contains this project
+4. Select root director as the project folder which appeared after unzip (should be FTPserver)
+5. Hit Finish
+6. Select the project folder in the Project Explorer
+7. Right click and hit Build Project
+8. After the project is built it can be run
+9. Go to Run -> Run configurations
+10. Right click C/C++ application -> New
+11. Select the project that was just loaded into this workspace
+12. The project will be run as Debug, if another version is required please re-compile with appropriate options
+(i.e Debug/FTPserver)
+13. Edit the Arguments tab to include log file name and port number
+(i.e. server.conf)
+14. To run select the dropdown next to the green play button and choose the run configuration you just choose
+15. This process will only run a server, it is up to the user to select and run the proper clients
+
+This server was tested with the FTPclient that was submitted for HW 2 and the MAC OSX default ftp client
+
+-This FTP client mentioned above comes pre-installed on MAC 
+
+The server only requires a server.conf file to be passed as a command, like the one attached. I am making the assumptions that a 
+FTP client can be run without instruction. 
+
+The server verifies username and passwords through the ftp.users file. A file can be specified by the server.conf.
+In order to add a user please follow this form, on a new line enter the credentials as (username password). 
+Please see this file for an example, currently you can user only two users (pjr87 hw2, cs472 hw3) unless more are added.
+
+In the attached log file named logfiles.# you will see example runs from this program with the FTP clients mentioned above.
+
+The log file for the FTP client is named myLogClient.
+
+The server can handle multiple connections at once, defined up to 1024 in the code, but other system limitations may prevent
+it from going any higher. Recommend to test with 2-3.
+
+Please don't hesitate to contact me if there are any issues. pjr87@drexel.edu

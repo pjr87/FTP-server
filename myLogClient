@@ -1,0 +1,449 @@
+2016-11-14.12:38:09 input: 10.246.251.93 myLog 21432
+2016-11-14.12:38:09 Attempting to connect to 10.246.251.93 21432
+2016-11-14.12:38:48 input: 127.0.0.1 myLog 21432
+2016-11-14.12:38:48 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:38:48 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:38:48 Connected to FTP server
+2016-11-14.12:38:59 Sent USER pjr87
+2016-11-14.12:38:59 Error when receiving USER reply: Undefined error: 0
+2016-11-14.12:38:59 Sent PASS hw2
+2016-11-14.12:38:59 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.12:39:48 input: 127.0.0.1 myLog 21432
+2016-11-14.12:39:48 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:39:48 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:39:48 Connected to FTP server
+2016-11-14.12:39:51 Sent USER pjr87
+2016-11-14.12:39:51 Error when receiving USER reply: Undefined error: 0
+2016-11-14.12:39:51 Sent PASS hw2
+2016-11-14.12:39:51 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.12:40:14 input: 127.0.0.1 myLog 21432
+2016-11-14.12:40:14 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:40:14 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:40:14 Connected to FTP server
+2016-11-14.12:40:17 Sent USER pjr87
+2016-11-14.12:40:17 Error when receiving USER reply: Undefined error: 0
+2016-11-14.12:40:17 Sent PASS hw2
+2016-11-14.12:40:17 Error when receiving: Connection reset by peer
+2016-11-14.12:40:17 Error when receiving PASS reply: Connection reset by peer
+2016-11-14.12:40:30 input: 127.0.0.1 myLog 21432
+2016-11-14.12:40:30 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:40:30 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:40:30 Connected to FTP server
+2016-11-14.12:40:34 Sent USER pjr87
+2016-11-14.12:40:34 Error when receiving USER reply: Undefined error: 0
+2016-11-14.12:40:34 Sent PASS hw2
+2016-11-14.12:40:34 Error when receiving: Connection reset by peer
+2016-11-14.12:40:34 Error when receiving PASS reply: Connection reset by peer
+2016-11-14.12:40:47 input: 127.0.0.1 myLog 21432
+2016-11-14.12:40:47 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:40:47 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:40:47 Connected to FTP server
+2016-11-14.12:40:49 Sent USER pjr87
+2016-11-14.12:40:49 Received from USER reply: 500 Error while authenticating.
+2016-11-14.12:40:49 Sent PASS hw2
+2016-11-14.12:40:49 Received from PASS reply: 230 Login successful.
+2016-11-14.12:40:53 PASV command
+2016-11-14.12:40:53 Sent PASV
+2016-11-14.12:42:32 Error when receiving PASV reply: Undefined error: 0
+2016-11-14.12:42:39 input: 127.0.0.1 myLog 21432
+2016-11-14.12:42:39 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:42:39 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:42:39 Connected to FTP server
+2016-11-14.12:42:43 Sent USER pjr87
+2016-11-14.12:42:43 Received from USER reply: 500 Error while authenticating.
+2016-11-14.12:42:43 Sent PASS hw2
+2016-11-14.12:42:43 Received from PASS reply: 230 Login successful.
+2016-11-14.12:44:15 input: 127.0.0.1 myLog 21432
+2016-11-14.12:44:15 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:44:15 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:44:15 Connected to FTP server
+2016-11-14.12:44:18 Sent USER pjr87
+2016-11-14.12:44:18 Received from USER reply: 500 Error while authenticating.
+2016-11-14.12:44:18 Sent PASS hw2
+2016-11-14.12:44:18 Received from PASS reply: 230 Login successful.
+2016-11-14.12:45:11 input: 127.0.0.1 myLog 21432
+2016-11-14.12:45:11 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:45:11 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:45:11 Connected to FTP server
+2016-11-14.12:45:13 Sent USER pjr87
+2016-11-14.12:45:13 Received from USER reply: 500 Error while authenticating.
+2016-11-14.12:45:13 Sent PASS hw2
+2016-11-14.12:45:13 Received from PASS reply: 230 Login successful.
+2016-11-14.12:46:54 input: 127.0.0.1 myLog 21432
+2016-11-14.12:46:54 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:46:54 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:46:54 Connected to FTP server
+2016-11-14.12:46:57 Sent USER pjr87
+2016-11-14.12:46:57 Received from USER reply: 500 Error while authenticating.
+2016-11-14.12:46:57 Sent PASS hw2
+2016-11-14.12:46:57 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.12:47:40 input: 127.0.0.1 myLog 21432
+2016-11-14.12:47:40 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:47:40 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:47:40 Connected to FTP server
+2016-11-14.12:47:43 Sent USER pjr87
+2016-11-14.12:47:43 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:47:43 Sent PASS hw2
+2016-11-14.12:47:43 Received from PASS reply: 230 Login successful.
+2016-11-14.12:51:59 input: 127.0.0.1 myLog 21432
+2016-11-14.12:51:59 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:51:59 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:51:59 Connected to FTP server
+2016-11-14.12:52:02 Sent USER pjr87
+2016-11-14.12:52:02 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:52:02 Sent PASS hw2
+2016-11-14.12:52:02 Received from PASS reply: 230 Login successful.
+2016-11-14.12:52:18 input: 127.0.0.1 myLog 21432
+2016-11-14.12:52:18 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:52:18 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:52:18 Connected to FTP server
+2016-11-14.12:52:21 Sent USER pjr87
+2016-11-14.12:52:21 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:52:21 Sent PASS hw2
+2016-11-14.12:52:21 Received from PASS reply: 230 Login successful.
+2016-11-14.12:52:23 PASV command
+2016-11-14.12:52:23 Sent PASV
+2016-11-14.12:52:23 Received from PASV reply: 227 Entering Passive Mode (127,0,0,1,219,130)
+2016-11-14.12:52:23 Attempting to connect to 127.0.0.1 56194
+2016-11-14.12:52:23 Data port connected to FTP server
+2016-11-14.12:52:31 PORT command
+2016-11-14.12:52:41 input: 127.0.0.1 myLog 21432
+2016-11-14.12:52:41 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:52:41 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:52:41 Connected to FTP server
+2016-11-14.12:52:44 Sent USER pjr87
+2016-11-14.12:52:44 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:52:44 Sent PASS hw2
+2016-11-14.12:52:44 Received from PASS reply: 230 Login successful.
+2016-11-14.12:52:46 PORT command
+2016-11-14.12:53:13 input: 127.0.0.1 myLog 21432
+2016-11-14.12:53:13 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:53:13 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:53:13 Connected to FTP server
+2016-11-14.12:53:16 Sent USER pjr87
+2016-11-14.12:53:16 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:53:16 Sent PASS hw2
+2016-11-14.12:53:16 Received from PASS reply: 230 Login successful.
+2016-11-14.12:53:28 PORT command
+2016-11-14.12:53:28 Your client is listening for FTP on 12345
+2016-11-14.12:53:28 Sent PORT (127,0,0,1,48,57)
+2016-11-14.12:53:28 Received from PORT reply: 200 PORT command successful. Consider using PASV.
+2016-11-14.12:53:28 Connected to data port
+2016-11-14.12:54:42 input: 127.0.0.1 myLog 21432
+2016-11-14.12:54:42 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:54:42 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:54:42 Connected to FTP server
+2016-11-14.12:54:45 Sent USER pjr87
+2016-11-14.12:54:45 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:54:45 Sent PASS hw2
+2016-11-14.12:54:45 Received from PASS reply: 230 Login successful.
+2016-11-14.12:54:49 PORT command
+2016-11-14.12:54:49 Your client is listening for FTP on 12345
+2016-11-14.12:54:49 Sent PORT (127,0,0,1,48,57)
+2016-11-14.12:54:49 Received from PORT reply: 200 PORT command successful. Consider using PASV.
+2016-11-14.12:54:49 Connected to data port
+2016-11-14.12:56:19 input: 127.0.0.1 myLog 21432
+2016-11-14.12:56:19 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:56:19 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:56:19 Connected to FTP server
+2016-11-14.12:56:22 Sent USER pjr87
+2016-11-14.12:56:22 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:56:22 Sent PASS hw2
+2016-11-14.12:56:22 Received from PASS reply: 230 Login successful.
+2016-11-14.12:56:24 Error command not recognized
+2016-11-14.12:56:24 Error command not recognized
+2016-11-14.12:56:24 Error command not recognized
+2016-11-14.12:56:30 Error command not recognized
+2016-11-14.12:56:39 input: 127.0.0.1 myLog 21432
+2016-11-14.12:56:39 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:56:39 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:56:39 Connected to FTP server
+2016-11-14.12:56:43 Sent USER pjr87
+2016-11-14.12:56:43 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:56:43 Sent PASS hw2
+2016-11-14.12:56:43 Received from PASS reply: 230 Login successful.
+2016-11-14.12:56:48 Error command not recognized
+2016-11-14.12:56:54 PORT command
+2016-11-14.12:57:09 input: 127.0.0.1 myLog 21432
+2016-11-14.12:57:09 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:57:09 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:57:09 Connected to FTP server
+2016-11-14.12:57:11 Sent USER pjr87
+2016-11-14.12:57:11 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:57:11 Sent PASS hw2
+2016-11-14.12:57:11 Received from PASS reply: 230 Login successful.
+2016-11-14.12:57:18 PORT command
+2016-11-14.12:57:18 Your client is listening for FTP on 12345
+2016-11-14.12:57:18 Sent PORT (127,0,0,1,48,57)
+2016-11-14.12:57:18 Received from PORT reply: 200 PORT command successful. Consider using PASV.
+2016-11-14.12:57:18 Connected to data port
+2016-11-14.12:58:14 input: 127.0.0.1 myLog 21432
+2016-11-14.12:58:14 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:58:14 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:58:14 Connected to FTP server
+2016-11-14.12:58:19 Sent USER pjr87
+2016-11-14.12:58:19 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:58:19 Sent PASS hw2
+2016-11-14.12:58:19 Received from PASS reply: 230 Login successful.
+2016-11-14.12:58:21 PORT command
+2016-11-14.12:58:21 Your client is listening for FTP on 12345
+2016-11-14.12:58:21 Sent PORT (127,0,0,1,48,57)
+2016-11-14.12:58:21 Received from PORT reply: 200 PORT command successful. Consider using PASV.
+2016-11-14.12:58:21 Connected to data port
+2016-11-14.12:59:37 input: 127.0.0.1 myLog 21432
+2016-11-14.12:59:37 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:59:37 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:59:37 Connected to FTP server
+2016-11-14.12:59:45 input: 127.0.0.1 myLog 21432
+2016-11-14.12:59:45 Attempting to connect to 127.0.0.1 21432
+2016-11-14.12:59:45 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.12:59:45 Connected to FTP server
+2016-11-14.12:59:49 Sent USER pjr87
+2016-11-14.12:59:49 Received from USER reply: 331 Please specify the password.
+2016-11-14.12:59:49 Sent PASS hw2
+2016-11-14.12:59:49 Received from PASS reply: 230 Login successful.
+2016-11-14.12:59:56 PORT command
+2016-11-14.12:59:56 Your client is listening for FTP on 12345
+2016-11-14.12:59:56 Sent PORT (127,0,0,1,48,57)
+2016-11-14.16:02:35 input: 127.0.0.1 myLog 21432
+2016-11-14.16:02:35 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:02:35 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:02:35 Connected to FTP server
+2016-11-14.16:02:39 Sent USER pjr87
+2016-11-14.16:02:39 Error when receiving USER reply: Undefined error: 0
+2016-11-14.16:02:39 Sent PASS hw2
+2016-11-14.16:02:39 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.16:02:52 input: 127.0.0.1 myLog 21432
+2016-11-14.16:02:52 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:02:52 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:02:52 Connected to FTP server
+2016-11-14.16:02:56 Sent USER pjr87
+2016-11-14.16:02:56 Error when receiving USER reply: Undefined error: 0
+2016-11-14.16:02:56 Sent PASS hw3
+2016-11-14.16:02:56 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.16:03:22 input: 127.0.0.1 myLog 21432
+2016-11-14.16:03:22 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:03:22 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:03:22 Connected to FTP server
+2016-11-14.16:03:27 Sent USER pjr87
+2016-11-14.16:03:27 Error when receiving USER reply: Undefined error: 0
+2016-11-14.16:03:27 Sent PASS hw2
+2016-11-14.16:03:27 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.16:04:14 input: 127.0.0.1 myLog 21432
+2016-11-14.16:04:14 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:04:14 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:04:14 Connected to FTP server
+2016-11-14.16:04:18 Sent USER pjr87
+2016-11-14.16:04:18 Error when receiving USER reply: Undefined error: 0
+2016-11-14.16:04:18 Sent PASS hw3
+2016-11-14.16:04:18 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.16:04:59 input: 127.0.0.1 myLog 21432
+2016-11-14.16:04:59 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:04:59 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:04:59 Connected to FTP server
+2016-11-14.16:05:02 Sent USER pjr87
+2016-11-14.16:05:02 Received from USER reply: 331 Please specify the password.
+2016-11-14.16:05:02 Sent PASS hw2
+2016-11-14.16:05:02 Received from PASS reply: 230 Login successful.
+2016-11-14.16:05:37 input: 127.0.0.1 myLog 21432
+2016-11-14.16:05:37 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:05:37 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:05:37 Connected to FTP server
+2016-11-14.16:05:39 Sent USER pjr87
+2016-11-14.16:05:39 Error when receiving USER reply: Undefined error: 0
+2016-11-14.16:05:39 Sent PASS hw2
+2016-11-14.16:05:39 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.16:05:53 input: 127.0.0.1 myLog 21432
+2016-11-14.16:05:53 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:05:53 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:05:53 Connected to FTP server
+2016-11-14.16:05:56 Sent USER pjr87
+2016-11-14.16:05:56 Received from USER reply: 331 Please specify the password.
+2016-11-14.16:05:56 Sent PASS hw2
+2016-11-14.16:05:56 Received from PASS reply: 230 Login successful.
+2016-11-14.16:06:25 input: 127.0.0.1 myLog 21432
+2016-11-14.16:06:25 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:06:25 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:06:25 Connected to FTP server
+2016-11-14.16:06:28 Sent USER pjr87
+2016-11-14.16:06:28 Received from USER reply: 331 Please specify the password.
+2016-11-14.16:06:28 Sent PASS hw2
+2016-11-14.16:06:28 Received from PASS reply: 230 Login successful.
+2016-11-14.16:07:43 input: 127.0.0.1 myLog 21432
+2016-11-14.16:07:43 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:07:43 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:07:43 Connected to FTP server
+2016-11-14.16:07:45 Sent USER pjr87
+2016-11-14.16:07:45 Received from USER reply: 331 Please specify the password.
+2016-11-14.16:07:45 Sent PASS hw2
+2016-11-14.16:07:45 Received from PASS reply: 230 Login successful.
+2016-11-14.16:08:57 input: 127.0.0.1 myLog 21432
+2016-11-14.16:08:57 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:08:57 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:08:57 Connected to FTP server
+2016-11-14.16:08:59 Sent USER pjr87
+2016-11-14.16:08:59 Error when receiving USER reply: Undefined error: 0
+2016-11-14.16:08:59 Sent PASS hw2
+2016-11-14.16:08:59 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.16:09:24 input: 127.0.0.1 myLog 21432
+2016-11-14.16:09:24 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:09:24 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:09:24 Connected to FTP server
+2016-11-14.16:09:27 Sent USER pjr87
+2016-11-14.16:09:27 Error when receiving USER reply: Undefined error: 0
+2016-11-14.16:09:27 Sent PASS hw2
+2016-11-14.16:09:27 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.16:09:44 input: 127.0.0.1 myLog 21432
+2016-11-14.16:09:44 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:09:44 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:09:44 Connected to FTP server
+2016-11-14.16:09:46 Sent USER pjr87
+2016-11-14.16:09:46 Received from USER reply: 331 Please specify the password.
+2016-11-14.16:09:46 Sent PASS hw2
+2016-11-14.16:09:46 Received from PASS reply: 230 Login successful.
+2016-11-14.16:10:09 input: 127.0.0.1 myLog 21432
+2016-11-14.16:10:09 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:10:09 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:10:09 Connected to FTP server
+2016-11-14.16:10:11 Sent USER pjr87
+2016-11-14.16:10:11 Error when receiving USER reply: Undefined error: 0
+2016-11-14.16:10:11 Sent PASS hw2
+2016-11-14.16:10:11 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.16:10:47 input: 127.0.0.1 myLog 21432
+2016-11-14.16:10:47 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:10:47 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:10:47 Connected to FTP server
+2016-11-14.16:10:49 Sent USER pjr87
+2016-11-14.16:10:49 Error when receiving USER reply: Undefined error: 0
+2016-11-14.16:10:49 Sent PASS hw2
+2016-11-14.16:10:49 Error when receiving PASS reply: Undefined error: 0
+2016-11-14.16:12:49 input: 127.0.0.1 myLog 21432
+2016-11-14.16:12:49 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:12:49 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:12:49 Connected to FTP server
+2016-11-14.16:12:52 Sent USER pjr87
+2016-11-14.16:12:52 Received from USER reply: 331 Please specify the password.
+2016-11-14.16:12:52 Sent PASS hw2
+2016-11-14.16:12:52 Received from PASS reply: 230 Login successful.
+2016-11-14.16:12:59 input: 127.0.0.1 myLog 21432
+2016-11-14.16:12:59 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:12:59 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:12:59 Connected to FTP server
+2016-11-14.16:13:02 Sent USER jf
+2016-11-14.16:13:02 Received from USER reply: 500 Error while authenticating.
+2016-11-14.16:13:02 Sent PASS as
+2016-11-14.16:13:02 Received from PASS reply: 500 Error while authenticating.
+2016-11-14.16:23:44 input: 127.0.0.1 myLog 21432
+2016-11-14.16:23:44 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:23:44 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:23:44 Connected to FTP server
+2016-11-14.16:23:47 Sent USER pjr87
+2016-11-14.16:23:47 Received from USER reply: 331 Please specify the password.
+2016-11-14.16:23:47 Sent PASS hw2
+2016-11-14.16:23:47 Received from PASS reply: 230 Login successful.
+2016-11-14.16:23:50 PASV command
+2016-11-14.16:23:50 Sent PASV
+2016-11-14.16:23:50 Received from PASV reply: 227 Entering Passive Mode (127,0,0,1,233,108)
+2016-11-14.16:23:50 Attempting to connect to 127.0.0.1 59756
+2016-11-14.16:23:50 Data port connected to FTP server
+2016-11-14.16:24:10 RETR command
+2016-11-14.16:24:10 Sent RETR README
+2016-11-14.16:24:10 Received from RETR reply: 150 Opening BINARY mode data connection for README (9058 bytes).
+2016-11-14.16:24:10 Transfer will begin now
+2016-11-14.16:24:10 Received from file reply: Phillip Ryan
+CS 472
+HW 4 - FTP server improvements
+11-14-16
+
+Questions:
+1. Part of providing security for an applicaiton entails that you are proactive. To expose an attack or indentify the damage
+cause analyzing the log events from the application helps to understand what tranpires while someone is using the client
+or server application. Being able to see the neccesary information that relates to the FTP process can be instrumental 
+in finding out the cause and way to fix an attack. 
+
+2. When two proccesses attemt to read or write to a file at theh same time an error can be thrown that the file is 
+not avaialable because another process is using that file and cannot be opened. There are several ways to implement 
+a system of concurrent logging and it depends on what the application is most responsible for. For example
+you could implement a system of locks that only allow a single process to be using the file at once, however
+this could put the server into a wait pattern where logging makes the server process commands very slowly. If speed
+was a higher priority each of the threads could log to its own log file and then upon closer of the connection
+the log file can be sorted and concatenated to a master log file, this process takes more space but should prevent
+servers from processing logs slowly in large numbers of threads are trying to write to a single log. 
+
+3. To start let me exlain port and pasv mode. Port mode conversation: two connections are established, and outbound
+and inbound connection. Pasv mode conversation: the client initiates all connections, the server needs to create a new
+connection back to the client. PASV-mode connections are a more preferred mode because the server does not need to create a
+new inbound connection to the client. With port mode the firewall needs to allow both inbound and outbound connections.
+This results in a wide range of ports being opened to others who may attempt to break the system. While PORT mode has
+been around longer, PASV mode allows firewalls to be better configured with secruty in mind. PORT allows for an exploit
+where a attacker is able to use PORT to request access to ports indirectly though the use of a victim machine as a middle
+man.
+
+4. Implicit is ideal if you really want full encryption for th entire FTP connection from the start of the application. Since 
+encryption always consumes more bandwidth and resources, there may be times when encrypting only one channel is ideal. 
+For instance if the files that are used dont contain confidential information then the only things that should be encrypted
+are the usernames and passwords. Since the user names and passwords are sent via the command channel then that's the only 
+channel that should be encrytped. But implicit mode will always encrypt both channels. For the situation described above,
+explcit mode is preferred because it allows somone to choose which channel to encrypt. This mode even allows to choose 
+not to do encrpytion because it runs over port 21 as opposed to implicit mode which runs at port 990 by default. So in summary
+explicit SSL is better when none secure data files are sent and when resources usage is a concern, where implicit SSL is best
+when confidential files are sent and received and resource usage is not as much of a concern. 
+
+5. One of the main reasons why the 3 person method is so insecure is because the three parties have no way of identifying
+if the person that who is supposed to be the receiver and sender are actually who they are supposed to be. In the 3 person
+system someone can be pointed to any other server to establish a connection and there is no guarentee that the server is who
+was intended to be sent to. In the PORT or PASV commands it would be helpful to identify the data connection with a user and 
+password authentication system that would help to verify that the person you are talking to is the expected person. 
+
+5 EXTRA CREDIT. SFTP is a termial program that encrpyts the files that are sent and received. SFTP is a secure form of ftp,
+without SFTP anyone can search through the packets and see the information being sent and received including authentication.
+SFTP makes cracking the server much more diffucult. SFTP may not be the best soultion when system resources are a concern, 
+however plain FTP should only be used when the network is always trusted. FTP is a client-server model while Bittorrent
+is a peer-to-peer model. With FTP the download and upload speed is limited to that of the server's connection. BitTorrent
+takes advantage of each peer's ability to upload and download content from multiple sources increasing the speed of a
+transfer. BitTorrent is usefule for larger scale content delivery systems where each peer can share a file or group of files
+much easier rather then having to rely of a single server. BitTorrent is bad because if it is used on a non-trusted network then
+files that are harmful to peer's computers could be downloaded. 
+
+6. FTP is vulnera
+2016-11-14.16:24:10 Received from RETR reply: 226 Transfer complete.
+2016-11-14.16:24:10 File transfer complete 226 Transfer complete.
+2016-11-14.16:24:10 File created 
+2016-11-14.16:24:16 Quitting ftp client
+2016-11-14.16:24:49 input: 127.0.0.1 myLog 21432
+2016-11-14.16:24:49 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:24:49 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:24:49 Connected to FTP server
+2016-11-14.16:24:53 Sent USER pjr87
+2016-11-14.16:24:53 Received from USER reply: 331 Please specify the password.
+2016-11-14.16:24:53 Sent PASS hw2
+2016-11-14.16:24:53 Received from PASS reply: 230 Login successful.
+2016-11-14.16:25:08 PORT command
+2016-11-14.16:25:08 Your client is listening for FTP on 12345
+2016-11-14.16:25:08 Sent PORT (127,0,0,1,48,57)
+2016-11-14.16:25:37 input: 127.0.0.1 myLog 21432
+2016-11-14.16:25:37 Attempting to connect to 127.0.0.1 21432
+2016-11-14.16:25:37 Received reply: 220 Welcome to Phillip Ryan's FTP server
+2016-11-14.16:25:37 Connected to FTP server
+2016-11-14.16:25:40 Sent USER pjr87
+2016-11-14.16:25:40 Received from USER reply: 331 Please specify the password.
+2016-11-14.16:25:40 Sent PASS hw2
+2016-11-14.16:25:40 Received from PASS reply: 230 Login successful.
+2016-11-14.16:25:46 PASV command
+2016-11-14.16:25:46 Sent PASV
+2016-11-14.16:25:46 Received from PASV reply: 227 Entering Passive Mode (127,0,0,1,233,159)
+2016-11-14.16:25:46 Attempting to connect to 127.0.0.1 59807
+2016-11-14.16:25:46 Data port connected to FTP server
+2016-11-14.16:25:48 LIST command
+2016-11-14.16:25:48 Sent LIST 
+2016-11-14.16:25:48 Received from LIST reply: 125. .. .cproject .DS_Store .project .settings Debug ftp.users FTPserver.cpp FTPserver.h log.cpp log.h logfiles.0 logfiles.1 logfiles.2 logfiles.3 logfiles.4 logfiles.5 logfiles.6 logfiles.7 main.cpp myLogClient README server.conf Socket.cpp Socket.h 
+2016-11-14.16:25:52 PWD command
+2016-11-14.16:25:52 Sent PWD
+2016-11-14.16:25:52 Received from PWD reply: 257 /Users/phillipryan/Documents/workspace/FTPserver
+2016-11-14.16:25:58 CDUP command
+2016-11-14.16:25:58 Sent CDUP
+2016-11-14.16:25:58 Received from CDUP reply: 200 Directory changed successfully
+2016-11-14.16:26:01 PWD command
+2016-11-14.16:26:01 Sent PWD
+2016-11-14.16:26:01 Received from PWD reply: 257 /Users/phillipryan/Documents/workspace
+2016-11-14.16:26:03 Quitting ftp client

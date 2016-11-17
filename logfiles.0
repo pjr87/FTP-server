@@ -1,0 +1,33 @@
+2016-11-14.16:25:31 input: server.conf
+2016-11-14.16:25:31 Your server is listening for FTP clients on 21432
+2016-11-14.16:25:37 Client accepted from 127.0.0.1
+2016-11-14.16:25:37 Sent welcome message
+2016-11-14.16:25:40 Received reply: USER pjr87
+2016-11-14.16:25:40 USER command
+2016-11-14.16:25:40 Sent331 Please specify the password.
+
+2016-11-14.16:25:40 Received reply: PASS hw2
+2016-11-14.16:25:40 PASS command
+2016-11-14.16:25:40 Sent230 Login successful.
+
+2016-11-14.16:25:46 Received reply: PASV
+2016-11-14.16:25:46 PASV command
+2016-11-14.16:25:46 Sent 227 Entering Passive Mode (127,0,0,1,233,159)
+
+2016-11-14.16:25:48 Received reply: LIST 
+2016-11-14.16:25:48 LIST command
+2016-11-14.16:25:48 Sent125. .. .cproject .DS_Store .project .settings Debug ftp.users FTPserver.cpp FTPserver.h log.cpp log.h logfiles.0 logfiles.1 logfiles.2 logfiles.3 logfiles.4 logfiles.5 logfiles.6 logfiles.7 main.cpp myLogClient README server.conf Socket.cpp Socket.h 
+
+2016-11-14.16:25:52 Received reply: PWD
+2016-11-14.16:25:52 PWD command
+2016-11-14.16:25:52 Sent 257 /Users/phillipryan/Documents/workspace/FTPserver
+
+2016-11-14.16:25:58 Received reply: CDUP
+2016-11-14.16:25:58 CDUP command
+2016-11-14.16:25:58 Sent200 Directory changed successfully
+
+2016-11-14.16:26:01 Received reply: PWD
+2016-11-14.16:26:01 PWD command
+2016-11-14.16:26:01 Sent 257 /Users/phillipryan/Documents/workspace
+
+2016-11-14.16:26:03 Error when receiving reply: Undefined error: 0
